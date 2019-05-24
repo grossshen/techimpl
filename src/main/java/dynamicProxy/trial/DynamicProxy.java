@@ -1,9 +1,8 @@
-package dynamicProxy;
+package dynamicProxy.trial;
 
 import lombok.Cleanup;
 import sun.misc.ProxyGenerator;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.lang.reflect.Proxy;

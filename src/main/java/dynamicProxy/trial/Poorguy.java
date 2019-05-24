@@ -1,4 +1,4 @@
-package dynamicProxy;
+package dynamicProxy.trial;
 
 /**
  * @author poorguy
